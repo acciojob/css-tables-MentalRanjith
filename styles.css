@@ -1,1 +1,27 @@
-/*  your css code here. If applicable */
+th{
+	border:1px solid #ccc;
+	border-radius: 5px;
+	padding: 0.5rem;
+}
+td{
+	border:1px solid #ccc;
+	border-radius: 5px;
+	background-odd
+	padding: 0.5rem;
+}
+tr.d4 td {
+  background-color:#f2f2f2;
+ 
+}
+tr.d2 td {
+  background-color: #f2f2f2;
+
+}
+tr.d1 td {
+  background-color: #ffffff;
+
+}
+tr.d3 td {
+  background-color: #ffffff;
+
+}
